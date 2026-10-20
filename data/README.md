@@ -1,0 +1,1 @@
+NFZ extracts and all derived administrative-unit outputs are **not** redistributed. Place authorized input at the path set in local `config.R`. Do not commit data, model objects, residuals, scenario caches, or unpublished tables.
